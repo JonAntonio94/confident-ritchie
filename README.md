@@ -98,4 +98,4 @@ _TODO: Answer the following questions to fill in the blanks:_
 - _filebeat-config.yml to include the IP Addresses of the machines you want to install Filebeat on_
 - _http://[your-VM-IP]:5601/app/kibana
 
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
+
